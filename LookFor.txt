@@ -1,0 +1,77 @@
+Design
+------
+- SOLID principles.
+- Design Patterns.
+- Dependecy Injection done? (How done earlier and now in .net core)
+- IOC?
+
+.net framework related
+----------------------
+
+ORM
+----
+- Entity Framework.
+- Fluent API. 
+- LINQ and Except command.
+- Migration and Seeding data to be handled?
+
+Publishing
+-----------
+- IIS basics and how itt was relevant.
+- Authentication(Ooath and JWT) and Authorization.
+- MVC basics and its version. (Kersetrel)
+- What is Rest, Web Api and WCF examples.
+- API basics.
+
+- Transient, sinlgeton and .. 
+- .net core needs and features.
+- Dictionary, List, Tuple
+- JSON
+- Thread mechanism.
+- Queue. 
+- Linq and how to write it?
+- ID server and IDP
+- Single Sign On. (SSO)
+- Azure Active Directory in cloud, AD(Azure Directory) - In premise.
+- DevOps practises.
+- AAD, B2B and B2C login.
+- Microservices.
+- Container+ Dockerizing + Yaml + PowerShell+ ArmTemplates+ Web Hooks in cloud?
+- Rabbit MQ + Signal R.
+- C# .net latest versions.(Version changes and updates happened.) - 8.0 and lower. 
+- Latest framework features:  Async and Await calls, Tuple, pattern matching.
+- Differences b/w .net core and framework before.
+- Using Git Bash and other version control mechanism!
+- CD/DI pipelines.
+- Postgres SQL interview questions.
+- What is NoSQL?
+- SqlLite use?
+- Kerberos for authentication?
+- SSL certifcate.
+- Wildcard SSL cert for trlsoftware.com, we have certs for individual subdomains via LetsEncrypt.
+- How to make a site Https?
+- iis basics.
+- URL params and Query String.
+- IOC, Dependecy Inversion and Injection.
+- DI lifetime(Transietn, Singleton, Scoped and Transient Inside Singletons) 
+- Routing in ASP.NET Core (Controller, Razore, SignalR)
+- Filters in .net
+- Excpetion handling done? Logging mechanism in .net core..
+- publishing in Nuget package.
+- Nginx and reverse proxy. 
+- Using cloud watch and Azure monitor
+- Dappper?
+- Scafolding..
+- CORS
+
+MSSql Server.
+- 
+
+Cloud computing 
+- Azure basics.
+
+HTML
+JS
+Angular
+
+Connecting Web API with Angular example.
